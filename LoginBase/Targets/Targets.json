@@ -1,0 +1,53 @@
+{
+    "targets": [
+      {
+        "beast": "One-Tail",
+        "name": "Shukaku",
+        "jinchuriki": "Gaara",
+        "village": "Sunagakure"
+      },{
+        "beast": "Two-Tail",
+        "name": "Matatabi",
+        "jinchuriki": "Yugito",
+        "village": "Kumogakure"
+      },{
+        "beast": "Three-Tail",
+        "name": "Isobu",
+        "jinchuriki": "Yagura",
+        "village": "Kirigakure"
+      },{
+        "beast": "Four-Tail",
+        "name": "Son Goku",
+        "jinchuriki": "Roshi",
+        "village": "Iwagakure"
+      },{
+        "beast": "Five-Tail",
+        "name": "Kokuo",
+        "jinchuriki": "Han",
+        "village": "Iwagakure"
+      },{
+        "beast": "Six-Tail",
+        "name": "Saiken",
+        "jinchuriki": "Utakata",
+        "village": "Kirigakure"
+      },{
+        "beast": "Seven-Tail",
+        "name": "Chomei",
+        "jinchuriki": "Fu",
+        "village": "Takigakure"
+      },{
+        "beast": "Eight-Tails",
+        "name": "Gyuki",
+        "jinchuriki": "Killer B",
+        "village": "Kumogakure"
+      },{
+        "beast": "Nine-Tails",
+        "name": "Kurama",
+        "jinchuriki": "Naruto",
+        "village": "Konohagakure"
+      }
+    ],
+    "profile": {
+      "name": "tgk2408"
+    }
+}
